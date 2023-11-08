@@ -16,3 +16,4 @@ This skill also provides features to get music-related information such as lyric
 By utilizing this skill, students can access important information easily and accurately through alexa rather than spending time searching for it online.
 
 
+![Alt Text](alexa.png)
